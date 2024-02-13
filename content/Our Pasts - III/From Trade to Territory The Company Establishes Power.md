@@ -1,5 +1,5 @@
 ---
-title: "From Trade to Territory The Company Establishes Power"
+title: "From Trade to Territory: The Company Establishes Power"
 draft: false
 tags:
 ---
