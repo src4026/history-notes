@@ -16,9 +16,9 @@ const config: QuartzConfig = {
     theme: {
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Atkinson Hyperlegible",
+        body: "Atkinson Hyperlegible",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
