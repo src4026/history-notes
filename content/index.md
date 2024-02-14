@@ -25,7 +25,7 @@ I've made these notes public so that my fellow schoolmates or any random strange
 
 # Contributing
 
-If you have found an error, want to improve my notes or have suggestions, you can do by
+If you have found an error, want to improve my notes or have suggestions, you can do so by
 - Creating an issue or PR as applicable on [GitHub](https://github.com/src4026/history/notes).
 - Contacting me through my email ID (`src4026@proton.me`), by other communication methods, or in-person.
 
