@@ -1,12 +1,13 @@
-## When People Rebel: 1857 and After
-
+---
+title: "When People Rebel: 1857 and After"
+draft: false
+tags: 
+ - chapter
 ---
 
-### Policies and the People
+# Policies and the People
 
-(NONE)
-
-#### Nawabs Lose Their Power
+## Nawabs Lose Their Power
 
 Since the mid-eighteenth century, the power of the rulers and nawabs continually decreased. Their authority, honour, and freedom were taken away with the gradual rise of the Residents in their royal courts, along with the various policies introduced by the British.
 Several ruling families tried to negotiate in order to protect their interests. Such as:
@@ -17,36 +18,32 @@ Several ruling families tried to negotiate in order to protect their interests. 
 And, after a long chain of imposing policies to annex territories, Awadh was the last in 1801 when a subsidiary alliance was introduced and taken over in 1856. The Company defended it's decision by saying that it was being misgoverned and British rule was needed to bring harmony.
 The Company soon began its master-plan to eradicate the Mughal dynasty. They first removed the face of the Mughal king in the coins that the Company minted. In 1849, Governor-General Dalhouside announced that after the death of Bahadur Shah Zafar, his family would be shifted outside the Red Fort. In 1856, Governor-General Canning decided the Bahadur Shah Zafar would be the last Mughal king and after his death, all those who come after will be recognised as princes.
 
-#### The Peasants and Sepoys
-
+## The Peasants and Sepoys
 
 They were payed low wages with bad working conditions. As well as being forced to go overseas for army tasks even if it violated their religious beliefs - which was that if one does do it, they "lose their religion and caste." This was the case in 1824, when Indian sepoys had to go overseas to fight against Burma. So, the Company issued a new law in 1856 stating that any member of the army had to agree to server overseas if required. A greater buildup of tension happened as the families of the sepoys were also facing pressure by the Company - spreading the rage amongst everyone.
 
-#### Responses to Reforms
+## Responses to Reforms
 
 The British introduced a plethora of laws and changes in order to fulfil their belief that "Indian society had to be reformed." Some of the changes that they brought were welcomed by Indian nationalists whereas others were not, and righteously so. After 1830, the Company allowed Christian missionaries to operate freely and own land and property. Following this, in 1850, a new law was passed making it easier for Indians to convert to Christianity, which the added bonus of being allowed to inherit the land of their ancestors.
 
----
+## Through the Eyes of the People
 
-### Through the Eyes of the People
-> Excerpts to be read.
+> [!tldr] Excerpts in textbook.
 
----
-
-### A Mutiny Becomes a Popular Rebellion
+# A Mutiny Becomes a Popular Rebellion
 
 With the conditions in Colonial India at this point, there were the exact ingredients to start a massive rebellion from the erratic mutinies.[^mutinies] The situation developed in north India in May 1857; starting from the sepoys of Meerut, to a huge sections of society rising up to rebellion.
 
-#### From Meerut to Delhi
+## From Meerut to Delhi
 
 On 8 April 1857, a young soldier, Mangal Pandey, was hanged to death for attacking his officers in Barrackpore. Due to the spread of rumours that the cartridges that the sepoys were supplied were coated with the fat of pigs and cows, sepoys rose in distrust and hatred for violation of the religious sentiments. On 9 May 1857, Eighty five sepoys were dismissed and sentenced to ten years in jail for disobeying their officers. The next day, soldiers marched to the jail in Meerut and released the imprisoned sepoys. They attacked and killed British officers, along with other acts against them.
 Soon the rebellion gained fuel in Delhi as the rebel sepoys declared to defeat the *firangis*,[^firangis] were the soldiers marched all night to the Red Fort - Bahadur Shah Zafar's residence. After forcing Bahadur Shah Zafar to meet them, they declared him as their leader. The Badshah then wrote letters to several chiefs and rulers to form a group to run over the British power. The people now saw hope and felt inspired as they had the Mughal ruler's support - unexpected to the British.
 
-#### The Rebellion Spreads
+## The Rebellion Spreads
 
 Initially, the new spread slowly, but when it reached the right people, regiment after regiment mutinied. The cities of Delhi, Lucknow, and Kanpur were hubs for the rebellion.
 
-- [[History#^4dcc14|Nana Saheb]], gathered armed forces and expelled British garrisons from Kanpur. He proclaimed himself as Peshwa and governor under Emperor Bahadur Shah Zafar.
+- Nana Saheb, gathered armed forces and expelled British garrisons from Kanpur. He proclaimed himself as Peshwa and governor under Emperor Bahadur Shah Zafar.
 - In Lucknow, Birjis Qadr, the son of the deposed Nawab Wajid Ali Shah, was proclaimed as the Nawab, and acknowledged the suzerainty of Bahadur Shah Zafar. His mother Begum Hazrat Mahal also actively took part in the organisation of the uprising.
 - In Jhansi, Rani Lakshmibai, along with Tantia Tope (general of Nana Saheb) joined the sepoys in the battle against the British.
 - In the Mandla region of Madhya Pradesh, Avantibai Lodhi of Ramgarh led an army of four thousand against the British.
@@ -56,9 +53,7 @@ Initially, the new spread slowly, but when it reached the right people, regiment
 	- In Bihar, Kunwar Singh, an old *zamindar*, joined the rebel sepoys
 	- And many more.
 
----
-
-### The Company Fights Back
+# The Company Fights Back
 
 Little was the Company scared of, and it collected reinforcements from England and passed new laws to convict the rebels with ease. Delhi was recaptured in September 1857. The last Mughal emperor, Bahadur Shah Zafar was tried in court and sentenced to life imprisonment. He and his wife Begum Zinat Mahal were sent to Rangoon jail in October 1858, where he later died in 1862.
 However, this was not enough to suppress the entire rebellion. It took a total of two more years for them to bring down the massive forces.
@@ -70,9 +65,7 @@ However, this was not enough to suppress the entire rebellion. It took a total o
 
 The British also tried to convince the people by announcing rewards for landholders who submitted to them, and if they had not killed any white people. They would remain safe and could continue to enjoy their traditional rights. Nonetheless, hundreds of sepoys, rebels, nawabs, and rulers were tried and hanged.
 
----
-
-### Aftermath
+## Aftermath
 
 The British had regained control of the country by 1859, but they could no longer rule under the same terms.
 
@@ -84,4 +77,5 @@ The British had regained control of the country by 1859, but they could no longe
 6. The land and property of Muslims was confiscated and they were treated with suspicion and hostility. The British believed they were largely responsible for the rebellion.
 7. The British chose to respect customary religious and social pratices of Indians.
 
----
+[^mutinies]: (*s. mutinies*) When soldiers as a group disobey their officers in the army.
+[^firangis]: Foreigners; the term reflects an attitude of contempt.
