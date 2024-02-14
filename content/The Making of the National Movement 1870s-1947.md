@@ -3,7 +3,10 @@ title: "The Making of the National Movement: 1870s-1947"
 draft: false
 tags: 
  - chapter
+ - 🌱
 ---
+
+> Previous: [[Women, Caste, and Reform]]
 
 # The Emergence of Nationalism
 
@@ -11,7 +14,7 @@ Following the various developments taking place in India, its people and various
 
 > [!example] *Poona Sarvajanik Sabha*, the Bombay Presidency Association, the *Madras Mahajan Sabha*, the Indian Association, and the Indian National Congress were the more notable ones.
 
-The goals of these associations was not one of a particular region, community, or class, but with the idea that all people should be sovereign[^sovereign]
+The goals of these associations was not one of a particular region, community, or class, but with the idea that all people should be sovereign[^sovereign].
 
 
 - The **Arms Act** was passed in 1878, disallowing Indians from possessing arms.
@@ -21,9 +24,6 @@ The goals of these associations was not one of a particular region, community, o
 - Most of the early leaders, such as, **Dadabhai Naoroji**, **Pherozeshah Mehta**, **Badruddin Tyabji**, **WC Bonnerji**, **Surendranath Banerji**, **Romesh Chandra Dutt**, and **S Subramania Iyer**, were largely  from Bombay and Calcutta.
 - Naoroji, a businessman and publicist[^publicist] settled in London, and for a time, a member of of the British Parliament, guided young nationalists.
 - A retired British official, **A O Hume** also played a part in uniting Indians from various regions.
-
-#### A nation in the making
-
 
 
 [^sovereign]: The capacity to act independently without outside influence.

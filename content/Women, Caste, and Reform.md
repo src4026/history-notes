@@ -3,7 +3,11 @@ title: "Women, Caste, and Reform"
 draft: false
 tags: 
  - chapter
+ - 🌲
 ---
+
+> Previous: [[When People Rebel 1857 and After]]
+> Next: [[The Making of the National Movement 1870s-1947]]
 
 # Introduction
 

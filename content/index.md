@@ -9,10 +9,19 @@ Hello, I am Sasha. This website is my vault of the notes I created for my Histor
 
 I've made these notes public so that my fellow schoolmates or any random stranger on the internet find them helpful.
 
-# Structure
+# Structure of the vault
 
-All my notes for different chapters lie in the root of the vault itself (so basically, no folders). The only structure of the vault is that I have a note linking all the chapters of a particular textbook. Here is a list of them:
-1. [[Our Pasts - III]]
+> [!info] See [[#Course books]] for the list of chapters I've made notes for of a textbook.
+
+- All my notes for different chapters lie in the root of the vault itself; no folders. 
+- There are notes for chapters and a note for an entire textbook, which contains links to the chapters of that textbook. The tags #chapter and #textbook are used for these.
+- Tags like #🌱 , #🌲 , and #🌞 are used to show the status of a note.
+	- #🌱 refers to "seedling" notes. (WIP).
+	- #🌲 refers to evergreen notes. (Completed).
+	- #🌞 refers to notes that need a few changes and polishing touches before becoming an #🌲 note.
+
+## Course books
+1. [[Our Pasts - III]] (Class 8)
 
 # Contributing
 
@@ -21,10 +30,5 @@ If you have found an error, want to improve my notes or have suggestions, you ca
 - Contacting me through my email ID (`src4026@proton.me`), by other communication methods, or in-person.
 
 Any form of help is highly appreciated.
-## 
 
-
-
-
-
-[Click here to view the source code.](https://github.com/src4026/history-notes)
+Click [here](https://github.com/src4026/history-notes) to view the source code.

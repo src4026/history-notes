@@ -3,7 +3,11 @@ title: "Ruling the Countryside"
 draft: false
 tags: 
  - chapter
+ - 🌲
 ---
+
+> Previous: [[From Trade to Territory The Company Establishes Power]]
+> Next: [[When People Rebel 1857 and After]]
 
 # The Company Becomes the Diwan
 

@@ -3,7 +3,11 @@ title: "When People Rebel: 1857 and After"
 draft: false
 tags: 
  - chapter
+ - 🌲
 ---
+
+> Previous: [[Ruling the Countryside]]
+> Next: [[Women, Caste, and Reform]]
 
 # Policies and the People
 

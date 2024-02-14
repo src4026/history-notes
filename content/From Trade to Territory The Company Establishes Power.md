@@ -3,7 +3,10 @@ title: "From Trade to Territory: The Company Establishes Power"
 draft: false
 tags: 
  - chapter
+ - 🌲
 ---
+
+> Next: [[Ruling the Countryside]]
 
 # East India Company Comes East
 
