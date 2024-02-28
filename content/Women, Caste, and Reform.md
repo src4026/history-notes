@@ -66,6 +66,7 @@ tags:
 
 ## Gulamgiri
 
+- Jyotirao Phule authored the book *Gulamgiri*, literally meaning "slavery", in 1873. He dedicated it to the people who fought to free the slaves in America during the American Civil War (1861-1865).
 - He sharply opposed the Brahmans' claim that they were superior because they were Aryans. Phule argued Aryans were foreigners who subjugated those who lived in the land before them. Therefore, they have no right to the land and power they now owned, and it belonged to the indigenous people that were considered "low" castes.
 - Phule founded the Satyashodhak Samaj, an association which propagated caste equality.
 
