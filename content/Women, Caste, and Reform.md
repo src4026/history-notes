@@ -67,6 +67,7 @@ tags:
 ## Gulamgiri
 
 - He sharply opposed the Brahmans' claim that they were superior because they were Aryans. Phule argued Aryans were foreigners who subjugated those who lived in the land before them. Therefore, they have no right to the land and power they now owned, and it belonged to the indigenous people that were considered "low" castes.
+- Phule founded the Satyashodhak Samaj, an association which propagated caste equality.
 
 > [!info] Phule was critical of the anti-colonial nationalism preached by the upper castes. He said that they give advice to the Shudras, Muslims, and Parsi youth to forget their caste differences and unite to go against the British and then it would be "me here and you over there". This is to say that the upper-castes would again continue their same caste distinctions against the "lower"-castes and untouchability.
 
@@ -98,6 +99,7 @@ tags:
 > [!tldr] Jyotirao Phule
 > - Established school for girls in Maharashtra.
 > - Attacked the claims of the Brahmans that they were superior to others.
+> - Founded the Satya
 
 > [!tldr] Mumtaz Ali reinterpreted verses from the Koran to assert for women's education.
 
