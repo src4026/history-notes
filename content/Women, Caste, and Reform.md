@@ -86,6 +86,7 @@ tags:
 > - Wrote extensively on the plight of women and empowering them.
 > - Spread the principles of Western education in India.
 > - Translated an old Buddhist text that was critical of caste.
+> - Founded the Brahmo Samaj.
 
 > [!tldr] Ishwarchandra Vidyasagar
 > - Used ancient texts to suggest that widows could remarry.
