@@ -100,7 +100,7 @@ tags:
 > [!tldr] Jyotirao Phule
 > - Established school for girls in Maharashtra.
 > - Attacked the claims of the Brahmans that they were superior to others.
-> - Founded the Satya
+> - Founded the Satyashodhak Samaj.
 
 > [!tldr] Mumtaz Ali reinterpreted verses from the Koran to assert for women's education.
 
