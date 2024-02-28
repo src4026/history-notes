@@ -95,6 +95,7 @@ tags:
 
 > [!tldr] Swami Dayanand Saraswati
 > - Supported widow remarriage.
+> - Founded the Arya Samaj in 1875, an organisation that attempted to reform Hinduism.
 
 > [!tldr] Jyotirao Phule
 > - Established school for girls in Maharashtra.
