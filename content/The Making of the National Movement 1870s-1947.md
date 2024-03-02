@@ -53,12 +53,40 @@ The goals of these associations was not one of a particular region, community, o
 > - Although it was greatest in Bengal, its effect reached other places as well. For instance, it was known as the *Vandemataram Movement* in deltaic Andhra.
 
 - In 1906, a group of Muslim landlords and nawabs formed the All India Muslim Leage at Dacca. Unlike others, the Muslim League supported the partition of Bengal.
-- The League demanded separate electorates for Muslims, resulting in reservation of seats in the coucil for Muslims. These could be elected by Muslim votes. This decision tempted various politicians to obtain support by distributing favours to their own religious groups.
-- Meanwhile, the Congress split in 1907. The Moderates refused to agree with the boycott and "revolutionary violence" visioned by the Radicals. Then, the Congress was dominated by Moderators with outside influence from Tilak's followers. However, the factions united in December 1915.
+- The League demanded separate electorates for Muslims, resulting in reservation of seats in the council[^council] for Muslims. These could be elected by Muslim votes. This decision tempted various politicians to obtain support by distributing favours to their own religious groups.
+- Meanwhile, the Congress split in 1907. The Moderates refused to agree with the boycott and "revolutionary violence"[^rv] visioned by the Radicals. Then, the Congress was dominated by Moderators with outside influence from Tilak's followers. However, the factions united in December 1915.
 - The next year (1916), the Congress and the Muslim League signed the Lucknow Pact to collaborate for representing the government in the country.
 
 # The Growth of Mass Nationalism
 
+- From the year 1919, the struggle against British rule spread all over with numerous people participating from different sections of society - a mass movement.
+- Due to the First World War, the government imposed higher taxes to compensate for the increase in war supplies. This allowed Indian industries and business groups to expand and gain profit. These business groups demanded more opportunities for development. In this, they began supporting the Congress as well.
+- A large number of villagers were pressured to join the army for an "alien cause". When the soldiers returned, they had experienced the affect of imperialism and tensions arose.
+- Adding to this, in 1917, a Russian revolution took place. Ideals of socialism and workers' struggles inspired Indian nationalists.
+
+## The advent of Mahatma Gandhi
+
+> [!important] In 1895, along with other Indians, Mahatma Gandhi established the Natal Congress to fight against racial discrimination.
+
+- In 1915, Gandhiji returned to India. At first, he decided to travel throughout the country to analyse the situation of the people.
+- His earliest works were in the local movements in Champaran, Kheda, and Ahmedabad where he met Rajendra Prasad and Vallabhbhai Patel.
+- In Ahmedabad, he led a successful millworkers' strike in 1918.
+
+## The Rowlatt Satyagraha
+
+> [!info] The Rowlatt Act curbed fundamental rights such as the freedom of expression and strengthened police powers.
+
+- In 1919, Gandhiji gave a call for a *satyagrapaha* against the Rowlatt Act that the British had passed. He asked the Indians to observer 6 April 1919 as a day of non-violent opposition, "humiliation and prayer" and *hartal* (strike).
+- The government attempted violent methods to suppress these strikes. The Jallianwala Bagh Massacre ordered by General Dyer in Amritsar on Baisakhi day were among them. 
+- In pain and anger, Rabindranath Tagore revoked his knighthood[^knighthood].
+
+> [!summary] During the Rowlatt Satyagraha, the people actively tried to ensure that Hindus and Muslims were united to oppose the British. Gandhiji always saw India as the land for *all* of the people who lived in the country.
+
+## Khilafat agitation and the Non-Cooperation Movement
+
 [^sovereign]: The capacity to act independently without outside influence.
 [^publicist]: Someone who publicises an idea by circulating information, writing reports, speaking at meetings.
 [^repeal]: To undo law; to official end the validity of something such as a law
+[^rv]: The use of violence to make a radical change in society.
+[^council]: An appointed or elected body of people with an administrative advisory or representative function.
+[^knighthood]: An honour granted by the British Crown for exceptional personal achievement or public service.
