@@ -83,6 +83,46 @@ The goals of these associations was not one of a particular region, community, o
 > [!summary] During the Rowlatt Satyagraha, the people actively tried to ensure that Hindus and Muslims were united to oppose the British. Gandhiji always saw India as the land for *all* of the people who lived in the country.
 
 ## Khilafat agitation and the Non-Cooperation Movement
+- In 1920, the British imposed a harsh treaty on the Turkish Sultain (*Khalifa*)
+- This outraged Indian Muslims. They were wanted the Khalifa to control sacred Muslim places in the erstwhile Ottoman Empire.
+- Mohammad Ali and Shaukat Ali, the leaders of the agitation, planned to execute a full-fledged Non-Cooperation movement.
+- Ganghiji supported them as well as urged the Congress campaign against the Jallianwala Bagh massacre and demanded *swaraj*.
+- The movement gained momentum during 1921-22. Thousands of students left government-controlled schools and colleges while British titles where being surrendered. People boycotted the legislature and foreign cloth - even lighting them in public bonfires. Maybe regions of the country were on the verge of enormous revolts.
+
+## People's initiatives
+> [!info] Other cases involved people protesting non-violently. Some followed Ganghiji's calls by adding their own interpretations - at times in contradicting manners to his ideas.
+
+- **Kheda, Gujarat**: *Patidar* peasants organised non-violent campaigns against the high land revenue demands of the British.
+- **Coastal Andhra Pradesh & interior Tamil Nadu**: Liquor shops were picketed[^picketed]. 
+- **Guntur, Andhra Pradesh**: Tribals and poor peasants participated in "forest *satyagrahas*" to protest against the unfair restrictions set by the British on their usage of forest resources. Many of the folks belived that "*Gandhi Raj*" was to be establised.
+- Muslim traders and peasants of **Sind (now in Pakistan)** arose in enthusiasm of the Khilafat call. In Bengal too, the Khilafat-Non-Cooperation alliance brought forth massive communal unity and power to the national movement.
+- **Punjab**: the *Akali* agitation of the Sikhs aimed to remove corrupt *mahants*[^mahants] who were supported by the British from their *gurudwaras*.
+- **Assam**: Tea labourers used slogans such as "*Gandhiji Maharaj ki Jai"* and demanded huge increase in their wages. When these demands were not met, they left the British-owned plantations.
+
+## The people's Mahatma
+*Too small to sumarrise.*
+
+## The happenings of 1922-1929
+- Because Mahatma Gandhi opposed violent movements, he abruptly called of the Non-Cooperation movement when a group of peasants set a police station on fire in Chauri Chauri on February 2022.
+- Once the Non-Cooperation movement ceased, leaders such as Chitta Ranjan Das and Motilal Nehru stressed the party to fight elections and enter the council to influence the government.
+- The sincere social work of the congress assisted them in the Civil Disobedience movement of 1930.
+- During the mid-1920s, the *Rashtriya Swayamsevak Sangh* (RSS) and the Communist Party of India formed.
+- Bhagat Sign, the revolutionary nationalist was active in this period.
+- The end of the decade marked the Congress taking up plans to fight for *Pura Swarak* in 1929 under the presidentship of Jawaharlal Nehru. On 26 January 1930, "Independence Day" for observed.
+
+> [!info] In 1927, The British government decided to send a commission headed by Lord Simon to decide India's political future. In response to the absence of any Indian representative, all political associations boycotted it and people demonstrated with banners saying "Simon go back".
+
+> [!summary] A Brief on Bhagat Sign and Others
+> - Revolutionary nationalists such as Bhagat Singh, Chandra Shekhar Azad, Sukhdev among others wished to fight against the exploiting rule of the rich and colonial people.
+> - They founded the Hindustan Socialist Republican Association (HSRA_ in 1928 at Ferozeshah Kotla in Delhi)
+> - **17 December, 1928:** Bhagat Singh, Azad, and Rajguru assasinate Saunders, a police officers who was involved in the *lathi*-charge that had caused the death of Lala Lajpat Rai.
+> - **8 April, 1929**: Bhagat Singh and BK Dutt throw a bomb in the Central Legislative Assembly to "make the deaf hear" and remind the foreign government of their vicious exploitation.
+> - **23 March, 1931**: Bhagat Singh, Sukhedev and Rajguru are executed.
+
+# The March to Dandi
+
+
+
 
 [^sovereign]: The capacity to act independently without outside influence.
 [^publicist]: Someone who publicises an idea by circulating information, writing reports, speaking at meetings.
@@ -90,3 +130,5 @@ The goals of these associations was not one of a particular region, community, o
 [^rv]: The use of violence to make a radical change in society.
 [^council]: An appointed or elected body of people with an administrative advisory or representative function.
 [^knighthood]: An honour granted by the British Crown for exceptional personal achievement or public service.
+[^picketed]: People protesting outside a building or shop to prevent others from entering.
+[^mahants]:
