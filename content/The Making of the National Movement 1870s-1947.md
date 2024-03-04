@@ -99,7 +99,7 @@ The goals of these associations was not one of a particular region, community, o
 - **Punjab**: the *Akali* agitation of the Sikhs aimed to remove corrupt *mahants*[^mahants] who were supported by the British from their *gurudwaras*.
 - **Assam**: Tea labourers used slogans such as "*Gandhiji Maharaj ki Jai"* and demanded huge increase in their wages. When these demands were not met, they left the British-owned plantations.
 
-## The people's Mahatma
+## The People's Mahatma
 *Too small to sumarrise.*
 
 ## The happenings of 1922-1929
