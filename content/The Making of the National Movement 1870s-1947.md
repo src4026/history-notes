@@ -121,6 +121,17 @@ The goals of these associations was not one of a particular region, community, o
 
 # The March to Dandi
 
+- In 1930, Ganghiji declared that he would march to break the salt law. 
+- The State had used the Salt Law to establish a monopoly on the manufacture and sale of salt. It also imposed unreasonable tax charges, as argued by multiple nationalists.
+- Gandhiji and his followers marched from Sabarmati to the coastal town of Dandi to break the salt law. He did so by gathering natural salt and boiling sea water to obtain salt.
+- In reaction, the British attempted to suppress the peaceful protest by brute force. They also jailed thousands of people.
+- The effort of the Indians came to fruition when the Government of India Act of 1935 prescribed **provincial autonomy**[^pa] and the government enabled elections to provincial legislatures in 1937. (The Congress formed 7 out of 11 provinces).
+- In September 1939, the First World War broke out. Critical of Hitler, the Congress were more than willing to support the British, however, in return, they demanded freedom to be granted to India after the war.
+- The British did not agree, and the Congress resigned in protest.
+
+# Quit India and Later
+
+
 
 
 
@@ -131,4 +142,4 @@ The goals of these associations was not one of a particular region, community, o
 [^council]: An appointed or elected body of people with an administrative advisory or representative function.
 [^knighthood]: An honour granted by the British Crown for exceptional personal achievement or public service.
 [^picketed]: People protesting outside a building or shop to prevent others from entering.
-[^mahants]:
+[^mahants]: Religious functionaries of Sikh gurudwaras.
