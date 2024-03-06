@@ -130,8 +130,47 @@ The goals of these associations was not one of a particular region, community, o
 - The British did not agree, and the Congress resigned in protest.
 
 # Quit India and Later
+- During the middle of the First World War, Gandhiji initiated the call for a movment to make the British quit India. He asked the people to fight non-violently and "do or die".
+- Gandhiji and other leaders were jailed immediately. 
+- However, young students and peasants who sacrificed their studies to strive for the nation were quickly attracted by the movement. People had set up their own governments in different places.
+- By the end of 1943, tens of thousands ere arrested and thousands killed by the British. Nevertheless, the revolt brought the British rule to its knees.
+
+> [!tldr] Bose & the INA
+> - Bose was a radical nationalist armed with socialist ideals. He did not share Gandhiji's principles of *ahimsa*, though he respected him a lot.
+> - In January 1941, he left Calcutta and went to Singapore via Germany. Here, he raised the Azad Hind Fauj (or Indian National Army). 
+> - They tried to enter India through Kohima to fight for independence but the plan failed. Many of the members were imprisoned and tried.
+
+## Towards Independence and Partition
+
+> [!example] Maulana Azad
+> - Maulana Azad was a scholar of Islam and upheld the ideals of *wahadat-i-deen* or "one of all religions".
+> - He was an active supported or Gandhian movement as well as unity of Hindus and Muslims.
+> - He opposed Jinnah's two-nation theory.> 
+
+> [!example] C Rajagopalachari
+> - C Rajagopalachari, popularly known as "Rajaji" was a veteran nationalist and a key leader in the Salt Satyagraha in the southern states.
+> - He was also a member of the Interim Government of 1946.
+> - Rajagopalachari also served as the first Governor-General of free India.
+
+> [!example] Sardar Vallabhbhai Patel
+> - He was among the foremost oraganisers of freedom movement from 1918 and onwards. 
+> - He served as President of Congress in 1931 and played a vital role in the independence negotiations (1945-47).
+
+> [!example] Mohammad Ali Jinnah
+> - Despite his shift in conceptions later, he was an ambassador of Hindu-Muslim unity until 1920.
+> - He played an important role in the forging of the Lucknow Pact.
+> - He reorganised the Muslim League after 1934, after which he became the major spokesperson for the demand for Pakistan.
 
 
+- From the 1930s, the Muslim League began viewing Muslims as separate entities from Hindus - eventually as another nation altogether. This was reflected in their 1940 resolution asking for a separate Islamic state. This demand did not mention partition or the name "Pakistan".
+- The provincial elections of 1937 had convinced the League that Muslims would always have to play a "second fiddle" in any democratic structure. The League was annoyed when the Congress rejected their desire to form a join government in the United Provinces in 1937.
+- The Muslim League gained support when the Congress failed to mobilise the Muslim population during the 1930s. The League sought to widen its support in the 1940s. Most Congress leaders were in jail at this time.
+- Talks among the British, League, and Congress failed at the end of the Second World War in 1945. It was because the Congress refused to accept the League's claim that it was the sole representative of the Muslim people as many still supported the Congress.
+- In the provincial elections of 1946, the Congress performed well in the **"General" constituencies**[^gc]. But the Muslim League won a spectacular number of seats reserved for Muslim. They continued to demand "Pakistan".
+- Nearing 1946, when the British sent members to establish a political framework for India, the Congress and Muslim League kept disagreeing on forming a type of semi-confederated state with some autonomy for Muslim-majority regions. Partition was now on the verge of becoming reality.
+- The Muslim League resorted to mass agitation to win its demand for winning its demand and announced 16 August 1946 was "Direct Action Day".
+- This resulted in riots in Calcutta for days and thousands of deaths. By March 1947, the violence spread to the north.
+- The partition caused millions of atrocities. Consequently, Pakistan was born.
 
 
 
@@ -143,3 +182,5 @@ The goals of these associations was not one of a particular region, community, o
 [^knighthood]: An honour granted by the British Crown for exceptional personal achievement or public service.
 [^picketed]: People protesting outside a building or shop to prevent others from entering.
 [^mahants]: Religious functionaries of Sikh gurudwaras.
+[^pa]: Capacity of the provinces to make relatively independent decisions while remaining within a federation.
+[^gc]: Elections with no reservations for any religious or other community.
